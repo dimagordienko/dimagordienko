@@ -1,5 +1,6 @@
-# 💫 About Me:
-🌱 I’m deep into ML<br>⚡ Contact me, if you have some questions
+# Hey, I'm Dima 😎<br><br>
+🌱 I’m deep into ML<br>
+⚡ Contact me, if you have some questions
 
 
 ## 🌐 Socials:
