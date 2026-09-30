@@ -63,19 +63,6 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dimagordienko&show_icons=true&hide_border=true&bg_color=0D1511&title_color=8BAF91&text_color=C4D5C8&icon_color=668B72&ring_color=668B72&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimagordienko&layout=compact&hide_border=true&bg_color=0D1511&title_color=8BAF91&text_color=C4D5C8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dimagordienko&bg_color=0D1511&color=8BAF91&line=668B72&point=C4D5C8&area=true&hide_border=true" width="95%" />
-</p>
-
----
-
 <p align="center">
   <i>Quiet progress is still progress. 🌱</i>
 </p>
