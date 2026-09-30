@@ -1,3 +1,4 @@
+
 <h1 align="center">Hey, I'm Dima ☘️</h1>
 
 <h3 align="center">Junior ML Engineer · Python Developer · AI Enthusiast</h3>
@@ -9,7 +10,7 @@
 <p align="center">
   🧠 Exploring Machine Learning, Computer Vision & LLMs<br>
   🛠️ Building AI-powered projects and automations<br>
-  🚀 Turning ideas into working solutions<br>
+  🚀 Turning ideas into working solutions
 </p>
 
 ---
@@ -18,16 +19,16 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/dmitrii-gordienko-487b3738a">
-    <img src="https://img.shields.io/badge/LinkedIn-355E4B?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:dimon2511gordienko@gmail.com">
-    <img src="https://img.shields.io/badge/Email-8BAF91?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://t.me/dimagordienko">
-    <img src="https://img.shields.io/badge/Telegram-477D69?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/dmitriigordienko_/">
-    <img src="https://img.shields.io/badge/Instagram-668B72?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -38,27 +39,34 @@
 <h4 align="center">Languages & Data</h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres" />
-  <img src="https://img.shields.io/badge/Pandas-355E4B?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-477D69?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
 <h4 align="center">Machine Learning & AI</h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
-  <img src="https://img.shields.io/badge/Scikit--learn-668B72?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-8BAF91?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-355E4B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-477D69?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge" />
 </p>
 
 <h4 align="center">Backend & Tools</h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,vscode" />
-  <img src="https://img.shields.io/badge/Qdrant-668B72?style=for-the-badge&logo=qdrant&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-355E4B?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-59666C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 </p>
 
 ---
